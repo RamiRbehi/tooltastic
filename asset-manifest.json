@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/tooltastic/static/css/main.31d6cfe0.css",
+    "main.js": "/tooltastic/static/js/main.754a9235.js",
+    "index.html": "/tooltastic/index.html",
+    "main.754a9235.js.map": "/tooltastic/static/js/main.754a9235.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.754a9235.js"
+  ]
+}
